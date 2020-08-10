@@ -29,7 +29,7 @@ The US Treasury yield curve data set (2011-2019).
 
 kelly.ayliffe@gmail.com
 
-https://www.linkedin.com/in/kelly-ayliffe-20a24b17b/
+www.linkedin.com/in/kelly-ayliffe-20a24b17b/
 
 
 ### Tomas Rubin
