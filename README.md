@@ -8,6 +8,8 @@ Individuals are free to use the codes for the purpose academic research, provide
 - **Static Nelson-Siegel fit.ipynb**
 A jupyter notebook demonstrating the fit of Nelson Siegel parametric family to (discrete) yield curve data. The user may choose the parameter lambda to play with different fits.
 
+![Static Nelson-Siegel fit with varying parameter lambda](figures/static.png)
+
 - **Yield curve forecasting.ipynb**
 A jupyter notebook demonstrating forecasts by the considered forecasting methods in the report [1], namely the dynamic Nelson-Siegel model estimated by the one-step or two-step methods, the autoregression, the vector autoregression, and the random walk benchmark. The notebook loads the US Treasury yield curve data and allows the user to select the training window and the number of days to forecast ahead.
 
