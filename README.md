@@ -17,7 +17,7 @@ A jupyter notebook demonstrating forecasts by the considered forecasting methods
 ![The forecasts by various methods](figures/forecasts.png)
 
 - **yield_curve_functions.py**
-This file includes the functions for the estimation and prediction of the considered yield curve forecasting methods.
+This file includes the functions for the estimation and prediction for the considered yield curve forecasting methods.
 
 - **US_daily.xlsx**
 The US Treasury yield curve data set (2011-2019).
@@ -43,5 +43,5 @@ www.linkedin.com/in/tomas-rubin/
 
 ## Reference
 
-[1] Ayliffe, Kelly and Rubin, Tomas. "A Quantitative Comparison of Yield Curve Models in the MINT Economies".
+[1] Ayliffe, Kelly and Rubin, Tomas. "A Quantitative Comparison of Yield Curve Models in the MINT Economies". XXX (To be submitted soon)
 
