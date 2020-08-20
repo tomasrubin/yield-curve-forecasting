@@ -43,5 +43,6 @@ www.linkedin.com/in/tomas-rubin/
 
 ## Reference
 
-[1] Ayliffe, Kelly and Rubin, Tomas. "A Quantitative Comparison of Yield Curve Models in the MINT Economies". XXX (To be submitted soon)
+[1] Ayliffe, Kelly and Rubin, Tomas. "A Quantitative Comparison of Yield Curve Models in the MINT Economies". EPFL Infoscience.
+URL: http://infoscience.epfl.ch/record/279314
 
