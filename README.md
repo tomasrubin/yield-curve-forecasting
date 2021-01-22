@@ -1,6 +1,6 @@
 # Yield Curve Forecasting
 
-This repository provides the implementation of the forecasting methods used in the quantitative analysis in [1]. This technical report originates from the semester project written by Kelly Ayliffe under the supervision of Tomas Rubin at Institute of Mathematics, École Polytechnique Fédérale de Lausanne.
+This repository provides the implementation of the forecasting methods used in the quantitative analysis in [1]. This technical report originates from the semester project written by Kelly Ayliffe under the supervision of Tomas Rubin at the Institute of Mathematics, École Polytechnique Fédérale de Lausanne, Switzerland.
 
 The authors of the code are Kelly Ayliffe and Tomas Rubin. Individuals are free to use the codes for the purpose academic research, provided it is properly acknowledged. For any other use, permission must first be arranged with the authors. Please contact us if you find errors in the code.
 
